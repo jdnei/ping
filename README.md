@@ -29,9 +29,13 @@ PingNetwork机场 的主要优势是价格门槛低、流量配置实惠，适�
 | 大品 | 500GB / 月 | 年付，每月重置 | ¥66 / 年 | 5 台 | 最高 3Gbps | 全节点 1.0 倍率 | 四网低延迟、全球节点 | 自研 AI 解锁网关；支持新疆、河南、福建用户；宣称无节点日志 |
 | 不限时品品 | 1000GB（一次性下发） | 一次性 / 不限时 | ¥68 | 5 台 | 最高 3Gbps | 全节点 1.0 倍率 | 四网低延迟、全球节点 | 自研 AI 解锁网关；支持新疆、河南、福建用户；宣称无节点日志；流量用完为止 |
 ## 📊 性能实测与分析
-#### 1.晚高峰测速表现
-![image](?raw=ture)</br>
+#### 1.1电信晚高峰测速表现
+![image](https://github.com/jdnei/ping/blob/main/pingnetwork/30824750324095ctcc.jpg?raw=ture)</br>
+#### 1.2联通晚高峰测速表现
+![image](https://github.com/jdnei/ping/blob/main/pingnetwork/8437052984309528cucc.jpg?raw=ture)</br>
+#### 1.3移动晚高峰测速表现
+![image](https://github.com/jdnei/ping/blob/main/pingnetwork/039485209384095cmcc.jpg?raw=ture)</br>
 #### 2.流媒体解锁报告
-![image](?raw=ture)</br>  
+![image](https://github.com/jdnei/ping/blob/main/pingnetwork/4795320948u0test.png?raw=ture)</br>  
 #### 3.落地入口分析
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/ping/blob/main/pingnetwork/8437052984309528cucc.jpg?raw=ture)</br>
