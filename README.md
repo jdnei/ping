@@ -34,7 +34,9 @@ PingNetwork机场 的主要优势是价格门槛低、流量配置实惠，适�
 ![image](https://github.com/jdnei/ping/blob/main/pingnetwork/8437052984309528cucc.jpg?raw=ture)</br>
 #### 1.3移动晚高峰测速表现
 ![image](https://github.com/jdnei/ping/blob/main/pingnetwork/039485209384095cmcc.jpg?raw=ture)</br>
-#### 2.流媒体解锁报告
+#### 2.AI解锁报告
+![image](https://github.com/jdnei/ping/blob/main/pingnetwork/309485209438509ai.jpg?raw=ture)</br>  
+#### 3.流媒体解锁报告
 ![image](https://github.com/jdnei/ping/blob/main/pingnetwork/4795320948u0test.png?raw=ture)</br>  
-#### 3.落地入口分析
+#### 4.落地入口分析
 ![image](https://github.com/jdnei/ping/blob/main/pingnetwork/8437052984309528cucc.jpg?raw=ture)</br>
