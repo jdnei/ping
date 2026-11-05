@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный сайт PingNetwork VPN (обновлено 1 ноября 2026 года)
+# Официальный сайт PingNetwork VPN (обновлено 5 ноября 2026)
 
 Официальный сайт PingNetwork VPN</br>
 
