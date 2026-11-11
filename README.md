@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# PingNetwork机场官方地址(2026年11月10日更新)
+# PingNetwork机场官方地址(2026年11月11日更新)
 PingNetwork机场官网地址</br>
 最新地址：[pingnetwork.org](https://to.iix.im/ping01)</br>
 官方地址：[pingnetwork.de](https://to.iix.im/ping01)</br>
